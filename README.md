@@ -1,2 +1,2 @@
 # 3-Cs
-These are exams for some subjects of the 3-cs
+These are exams for some subjects of the third year (computer science).
